@@ -3,10 +3,10 @@ h1{
 }
 ul li{
   margin:30px;
-  display:inline-block;
+  display:inline;
   font-size:30px;
   background-color: #E6E6E6;
-  border:solid;
+  border:solid 4px;
   border-color:gold;
   border-radius:3px;
   font-family:
