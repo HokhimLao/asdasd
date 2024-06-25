@@ -6,7 +6,7 @@ ul li{
   display:inline-block;
   font-size:30px;
   background-color: #E6E6E6;
-  border:solid 4px;
+  border:solid;
   border-color:gold;
   border-radius:3px;
 }
